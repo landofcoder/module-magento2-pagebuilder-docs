@@ -1,0 +1,2 @@
+# Base Widget Configuration
+
