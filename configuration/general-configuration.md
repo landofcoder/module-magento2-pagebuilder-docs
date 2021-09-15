@@ -8,7 +8,7 @@ Go to admin &gt; stores &gt; Configuration &gt; Venustheme.com &gt; All
 
 ![](../.gitbook/assets/ves_all_settings.png)
 
-At here we have some settings to enable/disable common js library on frontend.
+At here we have some settings to enable/disable common js library on frontend. Some option will been override in Pages Builder Configuration.
 
 **Enabled Bootstrap Js**: enable/disable the bootstrap 3 js on frontend \(disable option when the theme also are using bootstrap\), default enabled.
 
