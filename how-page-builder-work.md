@@ -6,7 +6,7 @@ description: >-
 
 # How Page builder work
 
-Our magento 2 page builder extension using core magento 2 widgets to build content of the cms page or block content.
+Our magento 2 page builder extension using core magento 2 widgets to build content of the cms page or block content with more advanced settings for developer can build page content as his want.
 
 Steps to design content with page builder:
 
