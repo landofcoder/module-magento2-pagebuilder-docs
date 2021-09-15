@@ -37,5 +37,5 @@
 
 ## Knowledge Base
 
-* [Untitled](knowledge-base/untitled.md)
+* [General](knowledge-base/untitled.md)
 
