@@ -28,7 +28,7 @@
 
 ## Widgets Configuration
 
-* [Untitled](widgets-configuration/untitled.md)
+* [List of Base Widgets on Page Builder](widgets-configuration/untitled.md)
 
 ## Video Guide
 
