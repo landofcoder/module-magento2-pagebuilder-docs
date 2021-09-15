@@ -38,7 +38,3 @@
 
 * [Untitled](knowledge-base/untitled.md)
 
-## Rest API & Graphql Docs
-
-* [Untitled](rest-api-and-graphql-docs/untitled.md)
-
