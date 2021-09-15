@@ -5,7 +5,7 @@ description: >-
   widgets too.
 ---
 
-# List of Base Widgets of Page Builder
+# List of Base Widgets
 
 ![Example list general widgets](../.gitbook/assets/list_general_widgets.png)
 
