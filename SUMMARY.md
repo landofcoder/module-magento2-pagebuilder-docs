@@ -16,11 +16,13 @@
 
 ## Manage Page Builder Profile
 
+* [Manage Page Builder Profile](manage-page-builder-profile/manage-page-builder-profile.md)
 * [Create Page Builder Profile](manage-page-builder-profile/create-page-builder-profile.md)
 * [Show page on frontend](manage-page-builder-profile/show-page-on-frontend.md)
 
 ## Manage Element Builder Profile
 
+* [Manage Element Builder Profile](manage-element-builder-profile/manage-element-builder-profile.md)
 * [Create Element Builder Profile](manage-element-builder-profile/create-element-builder-profile.md)
 * [Show Element on frontend](manage-element-builder-profile/show-element-on-frontend.md)
 
