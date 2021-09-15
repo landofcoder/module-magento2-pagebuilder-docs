@@ -8,7 +8,7 @@ Go to Admin &gt; Stores &gt; Configuration &gt; Ves Pages Builder &gt; Live Css 
 
 
 
-View it on frontend:
+View it on frontend as this:
 
 ![](../.gitbook/assets/live_css.png)
 
