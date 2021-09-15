@@ -32,7 +32,8 @@
 
 ## Video Guide
 
-* [Untitled](video-guide/untitled.md)
+* [How to create landing page](video-guide/untitled.md)
+* [How to use Element Builder](video-guide/how-to-use-element-builder.md)
 
 ## Knowledge Base
 
