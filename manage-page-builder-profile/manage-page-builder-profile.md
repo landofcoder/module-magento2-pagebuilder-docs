@@ -1,3 +1,9 @@
+---
+description: >-
+  The page builder profile is extended CMS Page of magento, it will insert page
+  builder widget shortcode into CMS Page content.
+---
+
 # Manage Page Builder Profile
 
 Go to admin &gt; Venustheme &gt; Manage Page Profile.
